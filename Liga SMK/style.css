@@ -1,0 +1,82 @@
+.navbar{
+    background-color: #ffff;
+}
+body{
+    background-color: #f0f3ff;
+}
+.about-img {
+    text-align: right; 
+  }
+  
+  .about-img img {
+    max-width: 100%; 
+    height: auto;
+  }
+  body {
+    padding-top: 80px; 
+  }
+  
+  .about-mf {
+    margin-top: 80px; 
+  }
+
+  body {
+    padding-top: 80px;
+  }
+  
+  .about-mf {
+    margin-top: 80px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .about-img {
+    text-align: center;
+  }
+  
+  .about-img img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .About{
+    width: 100%;
+    align-items: center;
+    padding: 25px 25px 25px 25px;
+    background-color: #ffb703;
+  }
+
+  .content-item {
+    display: flex;
+    align-items: center;
+    text-align: left; /* Mengatur teks menjadi kiri */
+    margin-bottom: 20px; /* Menambahkan margin antar item */
+  }
+  
+  .text-content {
+    margin-left: 20px; /* Menambahkan margin antara gambar dan teks */
+  }
+  
+  body {
+    padding-top: 80px;
+  }
+  
+  #nav {
+    margin-top: 80px;
+  }
+  
+  .nav-item {
+    border: 2px solid transparent;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .nav-item:hover {
+    border-color: white;
+  }
+  
+  .nav-item.active {
+    border-color: white;
+  }
+  
